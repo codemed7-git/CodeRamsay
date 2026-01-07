@@ -1,4 +1,4 @@
-# Ramzay
+# Ramsay
 
 Реализация исторического шифра Рамзай — одного из самых известных и значимых в истории отечественной криптографии.
 
@@ -36,7 +36,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/codemed7-git/CodeRamzay.git
+git clone https://github.com/codemed7-git/CodeRamsay.git
 ```
 
 2. Перейдите в каталог проекта:
